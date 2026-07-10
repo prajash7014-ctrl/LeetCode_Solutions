@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2326-spiral-matrix-iv](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2326-spiral-matrix-iv) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [1301-number-of-paths-with-max-score](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -70,4 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
