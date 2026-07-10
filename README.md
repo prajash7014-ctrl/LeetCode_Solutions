@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Sorting
 |  |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
