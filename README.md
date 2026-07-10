@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -84,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
