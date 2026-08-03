@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2326-spiral-matrix-iv) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [1301-number-of-paths-with-max-score](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -209,4 +212,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
