@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
