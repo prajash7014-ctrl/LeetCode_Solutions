@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
