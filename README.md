@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0257-binary-tree-paths](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Euclidean Algorithm
 |  |
@@ -323,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
