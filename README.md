@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
@@ -342,9 +343,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0257-binary-tree-paths](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0257-binary-tree-paths](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
