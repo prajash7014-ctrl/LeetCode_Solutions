@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1563-stone-game-v) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2326-spiral-matrix-iv](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2326-spiral-matrix-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Combinatorics
 |  |
 | ------- |
@@ -353,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0257-binary-tree-paths](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
