@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0257-binary-tree-paths](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0771-jewels-and-stones](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1927-sum-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0771-jewels-and-stones](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
