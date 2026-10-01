@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0771-jewels-and-stones](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
+| [1096-brace-expansion-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1096-brace-expansion-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Euclidean Algorithm
 |  |
