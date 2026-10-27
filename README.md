@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1096-brace-expansion-ii](https://github.com/prajash7014-ctrl/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
